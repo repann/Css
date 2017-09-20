@@ -1,0 +1,13 @@
+#footer{background:#0A0A0A ;border-top:1px solid #ccc;width:100%;padding:0;position:relative;clear:both;}
+.footer-wrapper{color:#666;font-size:14px;height:100%;line-height:15px;overflow:hidden;padding:0}
+.footer{float:left;width:30.5%;margin:10px}
+.footer .widget{margin-bottom:30px}
+.footer h2{font-size:20px;padding-bottom:8px;margin-bottom:8px;line-height:1.3em;color:#666;font-weight:normal}
+.footer .widget-content{line-height:17px}
+.footer ul{list-style:none;color:#666;margin:0;padding:0}
+  .footer li{text-indent:0;line-height:1.4em;margin:0;padding:2px 0 3px 0px;font-size:14px;text-shadow:0 -1px 0px #000}
+.footer a:link,.footer li a:visited{color:#777;text-decoration:none}
+.footer li a:hover{color:#999}
+#credit{background:#121114;text-align:center;font-size:14px;padding:20px 0;margin-bottom:-51px;color:#555;}
+#credit a{color:#239189;text-decoration:none}
+#credit a:hover{color:#407dad;text-decoration:none}
