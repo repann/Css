@@ -1,0 +1,115 @@
+.date-header {
+	margin:1.5em 0 .5em;
+	display:none;
+	}
+.post {
+	margin:0 0 1.5em;
+	padding-bottom:1.5em;
+	}
+.post h2 {
+	margin:0;
+	padding:0 0 4px;
+	font-size:170%;
+	font-weight:normal;
+	line-height:1.4em;
+	color:#4a4a4a;
+	font-family:Oswald,&quot;BebasLah&quot;,Bebas,&quot;Arial Narrow&quot;,Sans-Serif;
+	text-transform:uppercase;
+	}
+.post h2 a, .post h2 a:visited, .post h2 strong {
+	display:block;
+	text-decoration:none;
+	color:#4a4a4a;
+	}
+.post h2 strong, .post h2 a:hover {
+	color:#5295c6;
+	}
+.post h4{font-family:&#39;Oswald&#39;, Arial, sans-serif;font-size:16px;color:#4a4a4a;text-transform:uppercase;margin:25px 0 15px;padding:0;font-weight:normal}
+.post .post-title {
+	margin-bottom:15px;
+	}
+.post-body {
+	margin:0 0 .75em;
+	line-height:1.8em;
+	text-align:justify;
+	}
+.post-body img{background:url(http://1.bp.blogspot.com/-FtjYIC5-Gpo/UjFdcUC6M3I/AAAAAAAAFZA/XbSQR7OOOUA/s1600/preloader.gif)no-repeat 50% 50%}
+.post-body h3{
+	background:url(http://1.bp.blogspot.com/-AXMPCFNM3JI/UYsuSywmXGI/AAAAAAAAEC0/3rC3JGXXNNI/s1600/bottom-line.gif) left bottom no-repeat;
+	font-size:160%;
+	font-weight:400;
+	margin:0;
+	padding-bottom:12px;
+	}
+.post-body h4{
+	font-size:120%;
+	font-weight:normal;
+	margin-top:25px;
+	margin-bottom:10px;
+	padding-bottom:12px;
+	margin-top:0;
+	}
+.post-body img {
+	max-width: 98%;
+	border-width: 0;
+	padding: 0;
+	margin-right: 10px;
+	page-break-after:always;
+	}
+.post-footer {
+	margin:.75em 0;
+	color:#999999;
+	letter-spacing:.1em;
+	line-height:1.4em;
+	font-size:80%;
+	padding: 5px 0px 5px 0px;
+	margin: 30px 0px 15px 0px;
+	display:none;
+	}
+.post-footer ul{
+	margin-left:0;
+	}
+.comment-link {
+	margin-left:.6em;
+	}
+.tr-caption-container img {
+	border:none;
+	padding:0;
+	}
+table, td, th{
+	border:1px solid #ddd;
+	}
+blockquote {
+	font-family: Georgia, serif;
+	font-size: 15px;
+	font-style: italic;
+	margin: 0.25em 0;
+	padding: 15px 20px 15px 50px;
+	border: dashed 1px #ccc;
+	line-height: 1.45;
+	color: #666;
+	background: #fff url(http://4.bp.blogspot.com/-iI7HGbwS9Q8/UjR7vI0-60I/AAAAAAAAFdM/tAFQUhxBoTo/s1600/bg-blockquote.gif) no-repeat 15px 18px;
+clear: both;
+}
+
+#comments blockquote,b[rel=&quot;quote&quot;] {
+	position:relative;
+	width:auto;
+	padding:1em 1.5em;
+	margin:1em auto;
+	color:#fff;
+	background:#7abfcb;
+	overflow:hidden;
+	font-family: &#39;Open Sans&#39;, sans-serif, &#39;Segoe UI&#39;,Arial,Tahoma;
+	text-shadow: 0 1px 1px rgba(0,0,0,0.3);
+	margin-right:15px;
+	font-size:13px;
+	}
+img.ki-smiley {
+	height: auto !important;
+	vertical-align: middle !important;
+	margin-bottom: 3px;
+	width: auto !important;
+	border:0px !important;
+	box-shadow:none;
+	}
