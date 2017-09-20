@@ -1,0 +1,43 @@
+#header wrapper {
+	background: transparant
+	padding: 95px 0 25px 0;
+	margin-bottom: 20px;
+	}
+	
+#header {
+	text-align: center;
+	color: #333;
+	margin: 0;
+	}
+	
+#header h1, #header p {
+	font-size:300%;
+	font-weight:normal;
+	color:white;    
+	text-shadow:0 1px 3px rgba(63, 63, 63, 0.8);
+	}
+
+#header a {
+	color:#fff;
+	text-decoration:none;
+	}
+
+#header a:hover {
+	color:#fff;
+	}
+
+#header .description {
+	margin:0 5px 5px;
+	padding:0 20px 15px; 
+	text-transform:uppercase;
+	letter-spacing:.2em;
+	line-height:1.4em;
+	font:normal normal 78% &#39;Trebuchet MS&#39;, Trebuchet, Arial, Verdana, Sans-serif;
+	color:#fff;
+	text-shadow:none;
+	}
+
+#header img {
+	margin-left:auto;
+	margin-right:auto;
+	}
